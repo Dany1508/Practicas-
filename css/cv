@@ -1,0 +1,42 @@
+/* About-me - Begin */
+.titlr-main{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-style: bold;
+    color: rgb(17, 0, 77);
+}
+
+.title-secondary{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-style: bold;
+    color: rgb(15, 0, 68);
+}
+
+aside{
+    background-color: rgb(221, 252, 239);
+    
+}
+
+.title-section{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-style: bold;
+    color: rgb(15, 0, 68);
+
+}
+
+.photo-profile{
+    border-radius: 50%;
+    object-fit: cover;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+
+
+}
+
+/* About-me - Begin */
+
